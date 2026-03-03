@@ -81,4 +81,4 @@ business and decision-making scenarios.
 
 ## Author
 
-Prani
+Praneeth Thanniru
