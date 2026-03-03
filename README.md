@@ -1,19 +1,28 @@
-# Zomato Bangalore Data Cleaning & Exploratory Data Analysis
+# Zomato Bangalore – Data Cleaning & Exploratory Data Analysis
 
-## 📌 Business Problem
-Restaurant aggregators need insights into pricing, ratings, and customer behavior to improve market positioning and operational strategy.  
-This project analyzes the Zomato Bangalore dataset to uncover actionable insights.
+---
+
+## 📌 Business Objective
+
+Analyze restaurant market data to uncover pricing patterns, rating distribution, and location-based trends for strategic insights.
 
 ---
 
 ## 📊 Project Overview
-This project demonstrates practical data cleaning, preprocessing, and exploratory data analysis (EDA) using Python.
 
-The goal is to transform raw, messy restaurant data into meaningful business insights.
+This project demonstrates:
+
+- Data cleaning & preprocessing
+- Handling inconsistent rating formats
+- Exploratory data analysis (EDA)
+- Business insight extraction
+
+Dataset: Public Zomato Bangalore dataset (Kaggle)
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies
+
 - Python
 - Pandas
 - NumPy
@@ -23,56 +32,42 @@ The goal is to transform raw, messy restaurant data into meaningful business ins
 
 ---
 
-## 🧹 Data Cleaning Steps
-- Removed unnecessary columns
-- Handled missing and inconsistent values
+## 🧹 Data Cleaning Workflow
+
+- Removed irrelevant columns
+- Handled missing values
 - Cleaned "rate" column (removed 'NEW', '-', '/5')
-- Converted ratings to numeric format
+- Converted ratings to numeric values
 - Removed duplicate records
 
 ---
 
-## 📈 Exploratory Data Analysis
+## 📈 Key Analytical Insights
+
+- Casual Dining & Quick Bites dominate the market
+- Majority restaurants fall within mid-range pricing
+- Ratings mostly cluster between 3.5–4.2
+- High restaurant density in commercial zones
+- Strong online ordering adoption
+
+---
+
+## 📊 Visualizations Included
+
+- Rating distribution
+- Cost for two distribution
 - Restaurant type distribution
-- Online ordering trends
-- Location-wise restaurant density
-- Pricing distribution (Cost for Two)
-- Rating distribution analysis
-
----
-
-## 🔍 Key Business Insights
-- Casual Dining and Quick Bites dominate the market
-- Majority of restaurants fall in affordable to mid-range pricing
-- Ratings mostly range between 3.5 and 4.2
-- Commercial areas show highest restaurant density
-- Strong adoption of online ordering services
-
----
-
-## 📚 Dataset Source
-Public Zomato Bangalore dataset (Kaggle).
 
 ---
 
 ## ▶ How to Run
-1. Clone the repository
-2. Open the notebook in Jupyter Notebook
-3. Run all cells sequentially
 
----
-## 📊 Sample Visualizations
-
-### Ratings Distribution
-![Ratings Distribution](rating_distribution.png)
-
-### Cost for Two Distribution
-![Cost Distribution](cost_distribution.png)
-
-### Restaurant Type Distribution
-![Restaurant Type](restaurant_type_distribution.png)
+1. Clone repository
+2. Open `Zomato_EDA.ipynb`
+3. Run cells sequentially
 
 ---
 
 ## 👨‍💻 Author
+
 Praneeth Thanniru
