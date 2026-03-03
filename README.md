@@ -27,7 +27,6 @@ Dataset: Public Zomato Bangalore dataset (Kaggle)
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
@@ -65,6 +64,14 @@ Dataset: Public Zomato Bangalore dataset (Kaggle)
 1. Clone repository
 2. Open `Zomato_EDA.ipynb`
 3. Run cells sequentially
+
+---
+
+## Connect
+
+- LinkedIn: [thanniru-praneeth](https://www.linkedin.com/in/thanniru-praneeth/)
+- Portfolio: [indivetlabs.com](https://www.indivetlabs.com)
+- Email: [thannirupraneeth3@gmail.com](mailto:thannirupraneeth3@gmail.com)
 
 ---
 
