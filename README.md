@@ -61,6 +61,18 @@ Public Zomato Bangalore dataset (Kaggle).
 3. Run all cells sequentially
 
 ---
+## 📊 Sample Visualizations
+
+### Ratings Distribution
+![Ratings Distribution](rating_distribution.png)
+
+### Cost for Two Distribution
+![Cost Distribution](cost_distribution.png)
+
+### Restaurant Type Distribution
+![Restaurant Type](restaurant_type_distribution.png)
+
+---
 
 ## 👨‍💻 Author
 Praneeth Thanniru
